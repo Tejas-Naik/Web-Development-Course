@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+.orange-text{
+    color: orange;
+}
+
+#blue-text {
+    color: blue;
+}
+
+li[value="2"]{
+    color: brown;
+}
+
+* {
+    text-align: center;
+}

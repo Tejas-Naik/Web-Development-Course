@@ -1,0 +1,26 @@
+html {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 1rem;
+}
+
+/* 
+px = pixels
+pt = point
+em = parent full width
+rem = root full width (16px)
+*/

@@ -1,0 +1,28 @@
+/* Element Selectors */
+h1 {
+    color: blue;
+}
+
+p {
+    color: green;
+}
+
+/* Class Selector */
+.red-text{
+    color: red;
+}
+
+/* ID Selector */
+#orange-text {
+    color: orange;
+}
+
+/* Attribute Selector */
+p[draggable="true"]{
+    color: aqua;
+}
+
+a[href='#'] {
+    font-size: 25px;
+    color: blueviolet;
+}
